@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1> 👨‍💻 Aanjar </h1>
+  <h1> Aanjar </h1>
   <p><strong>Informatics Student • Full-stack Explorer</strong></p>
   <p><em>Crafting robust web systems and diving deep into computer science fundamentals.</em></p>
 
