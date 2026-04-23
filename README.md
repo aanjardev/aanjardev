@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=1a1b27&height=200&section=header&text=Aanjar&fontSize=70&fontColor=70a5fd&animation=fadeIn" width="100%" />
 
-  <p align="center">
-    <strong>Informatics Student • Full-stack Explorer</strong><br>
-    <em>Building robust web systems and diving deep into computer science fundamentals.</em>
-  </p>
+# - Aanjar -
+**Informatics Student • Full-stack Explorer**
 
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-70a5fd?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-70a5fd?style=for-the-badge&logoColor=white" />
+> Building robust web systems and diving deep into computer science fundamentals.
+
+[![Status](https://img.shields.io/badge/Status-Available%20for%20Projects-70a5fd?style=for-the-badge)](#)
+[![Focus](https://img.shields.io/badge/Focus-Fullstack%20Development-70a5fd?style=for-the-badge)](#)
+
 </div>
 
 </div>
