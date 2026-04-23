@@ -1,37 +1,46 @@
-## Hi there 👋
-# Hi, I'm Aanjar 🚀
-
-**Full-stack Developer** focused on building scalable web applications and high-performance systems. I bridge the gap between complex backend logic and intuitive frontend design.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Aanjar&fontSize=70&animation=fadeIn" width="100%" />
+  
+  <p align="center">
+    <strong>Informatics Student • Full-stack Explorer</strong><br>
+    Building robust web systems and diving deep into computer science fundamentals.
+  </p>
+</div>
 
 ---
 
 ### 🛠 Tech Stack
 
-**Frontend**
+**Web Architecture**
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Backend**
 ![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Systems & Programming**
+**Engineering & Logic**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 Coding Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=aanjardev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanjardev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aanjardev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanjardev&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
 </p>
 
 ---
 
-### 📫 Connect with me
-[LinkedIn](https://linkedin.com/in/aan-anjar) • [Email](mailto:aanjardev@gmail.com) • [Portfolio](https://aanjar.web.id)
+### 📫 Reach Me
+<p align="left">
+<a href="https://linkedin.com/in/aan-anjar" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="aan-anjar" /></a>
+<a href="mailto:aanjardev@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="aanjardev" /></a>
+<a href="https://aanjar.web.id" target="blank"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" /></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quotes" />
+</div>
