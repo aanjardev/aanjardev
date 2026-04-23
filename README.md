@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi, I'm [Nama Kamu] 🚀
+# Hi, I'm Aanjar 🚀
 
 **Full-stack Developer** focused on building scalable web applications and high-performance systems. I bridge the gap between complex backend logic and intuitive frontend design.
 
