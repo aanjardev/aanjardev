@@ -1,15 +1,14 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=1a1b27&height=200&section=header&text=Aanjar&fontSize=70&fontColor=70a5fd&animation=fadeIn" width="100%" />
 
-<svg width="100%" height="180" viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="180" rx="15" fill="#1A1B27"/>
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#70a5fd" font-family="Segoe UI, Roboto, Helvetica" font-size="55" font-weight="bold">Aanjar</text>
-  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" fill="#a9b1d6" font-family="Segoe UI, Roboto, Helvetica" font-size="20">Informatics Student • Full-stack Explorer</text>
-</svg>
+  <p align="center">
+    <strong>Informatics Student • Full-stack Explorer</strong><br>
+    <em>Building robust web systems and diving deep into computer science fundamentals.</em>
+  </p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Status-Available%20for%20Projects-70a5fd?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Fullstack%20Development-70a5fd?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-70a5fd?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-70a5fd?style=for-the-badge&logoColor=white" />
+</div>
 
 </div>
 
