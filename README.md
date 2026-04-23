@@ -1,11 +1,15 @@
 <div align="center">
-  
-  <h1> Aanjar </h1>
-  <p><strong>Informatics Student • Full-stack Explorer</strong></p>
-  <p><em>Crafting robust web systems and diving deep into computer science fundamentals.</em></p>
 
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-blue?style=flat-square" />
+<svg width="100%" height="180" viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="180" rx="15" fill="#1A1B27"/>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#70a5fd" font-family="Segoe UI, Roboto, Helvetica" font-size="55" font-weight="bold">Aanjar</text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" fill="#a9b1d6" font-family="Segoe UI, Roboto, Helvetica" font-size="20">Informatics Student • Full-stack Explorer</text>
+</svg>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Available%20for%20Projects-70a5fd?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Fullstack%20Development-70a5fd?style=for-the-badge&logoColor=white" />
 
 </div>
 
@@ -40,9 +44,3 @@
 <a href="mailto:aanjardev@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="aanjardev" /></a>
 <a href="https://aanjar.web.id" target="blank"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" /></a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quotes" />
-</div>
