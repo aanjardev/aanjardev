@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Aanjar&fontSize=70&animation=fadeIn" width="100%" />
   
-  <p align="center">
-    <strong>Informatics Student • Full-stack Explorer</strong><br>
-    Building robust web systems and diving deep into computer science fundamentals.
-  </p>
+  <h1> 👨‍💻 Aanjar </h1>
+  <p><strong>Informatics Student • Full-stack Explorer</strong></p>
+  <p><em>Crafting robust web systems and diving deep into computer science fundamentals.</em></p>
+
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-blue?style=flat-square" />
+
 </div>
 
 ---
@@ -24,7 +26,7 @@
 
 ---
 
-### 📊 Coding Stats
+### 📊 Coding Activity
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aanjardev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanjardev&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
