@@ -33,8 +33,8 @@
 
 ### 📊 Coding Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aanjardev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanjardev&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
