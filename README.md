@@ -32,7 +32,7 @@
 ---
 
 ### 📊 Coding Activity
-[![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=aanjardev&show_icons=true&theme=tokyonight](https://gh-stats.com/api/aanjardev?show_icons=true&theme=tokyonight))](https://github.com/aanjardev)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=aanjardev&show_icons=true&theme=tokyonight](https://gh-stats.com/api/aanjardev?show_icons=true&theme=tokyonight))
 
 ---
 
