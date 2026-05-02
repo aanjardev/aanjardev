@@ -31,11 +31,6 @@
 
 ---
 
-### 📊 Coding Activity
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=aanjardev&show_icons=true&theme=tokyonight](https://gh-stats.com/api/aanjardev?show_icons=true&theme=tokyonight))
-
----
-
 ### 📫 Reach Me
 <p align="left">
 <a href="https://linkedin.com/in/aan-anjar" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="aan-anjar" /></a>
