@@ -32,9 +32,7 @@
 ---
 
 ### 📊 Coding Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aanjardev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanjardev&show_icons=true&theme=tokyonight)](https://github.com/aanjardev)
 
 ---
 
